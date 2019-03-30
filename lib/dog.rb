@@ -16,3 +16,5 @@ class Dog
     puts "Woof!"
   end
 end
+
+suki = Dog.new("Suki")
